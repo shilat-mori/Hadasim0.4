@@ -1,0 +1,15 @@
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\bin\Debug\net8.0\BLL.deps.json
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\bin\Debug\net8.0\BLL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\bin\Debug\net8.0\BLL.pdb
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\bin\Debug\net8.0\DAL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\bin\Debug\net8.0\DAL.pdb
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\refint\BLL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\BLL.pdb
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\BLL\obj\Debug\net8.0\ref\BLL.dll

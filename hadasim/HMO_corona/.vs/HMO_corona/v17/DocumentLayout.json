@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\func\\serologion_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\func\\serologion_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\func\\vaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\func\\vaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\func\\serologion_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\func\\serologion_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\func\\coronavaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\func\\coronavaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\func\\patient_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\func\\patient_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\func\\patient_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\func\\patient_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\hmo_corona\\controllers\\patients_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|solutionrelative:hmo_corona\\controllers\\patients_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\interfaces\\iserologion_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iserologion_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\hmo_corona\\controllers\\serologions_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|solutionrelative:hmo_corona\\controllers\\serologions_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\func\\coronavaccine_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\func\\coronavaccine_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\dto\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\hmo_corona\\controllers\\coronavaccines_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|solutionrelative:hmo_corona\\controllers\\coronavaccines_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\hmo_corona\\controllers\\producters_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|solutionrelative:hmo_corona\\controllers\\producters_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\hmo_corona\\controllers\\patientsaddresses_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|solutionrelative:hmo_corona\\controllers\\patientsaddresses_crl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\func\\patientadress_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\func\\patientadress_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\dto\\serologion_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\serologion_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\dto\\patient_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\patient_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E9\u05D9\u05DC\u05EA\\AppData\\Local\\Temp\\.vsdbgsrc\\0fc8827cb1b354f5adf5c1d561c1ea9ae987ae2123592435a91cfd51111a80e6\\Patient_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E9\u05D9\u05DC\u05EA\\AppData\\Local\\Temp\\.vsdbgsrc\\791cb0f678fb9317af71a5c9556170054fc8fed5f83a26797f0ff24d5dcecde1\\CoronaVaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\func\\vaccine_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\func\\vaccine_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\dto\\coronavaccine_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\coronavaccine_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\interfaces\\ipatientaddress_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipatientaddress_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\func\\producter_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\func\\producter_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\func\\producter_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\func\\producter_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\hmo_corona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A502E-DEC9-4375-95DF-6F04CB531F65}|HMO_corona\\HMO_corona.csproj|solutionrelative:hmo_corona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\bll\\func\\patientaddress_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3E93B8-3E5A-4B6A-97CC-E48DD06023D0}|BLL\\BLL.csproj|solutionrelative:bll\\func\\patientaddress_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\interfaces\\iproducer_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iproducer_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\interfaces\\ivaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ivaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\interfaces\\iserologion_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iserologion_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\interfaces\\ipatient_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipatient_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\interfaces\\icoronavaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icoronavaccine_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\crud\\crdu_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\crud\\crdu_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|f:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\my_projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\hmo_corona\\dal\\hmo\\hmocoronacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDC71F-17A0-4825-8436-3B1B9BAF7C9C}|DAL\\DAL.csproj|solutionrelative:dal\\hmo\\hmocoronacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISerologion_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Interfaces\\ISerologion_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ISerologion_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Interfaces\\ISerologion_bll.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ISerologion_bll.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vwwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:03:44.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HmoCoronaContext.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\HMO\\HmoCoronaContext.cs",
+              "RelativeDocumentMoniker": "DAL\\HMO\\HmoCoronaContext.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\HMO\\HmoCoronaContext.cs",
+              "RelativeToolTip": "DAL\\HMO\\HmoCoronaContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA/wB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:20:26.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEkTAAAAAAAAAAASwGYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-27T10:59:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient_dal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D9\u05DC\u05EA\\AppData\\Local\\Temp\\.vsdbgsrc\\0fc8827cb1b354f5adf5c1d561c1ea9ae987ae2123592435a91cfd51111a80e6\\Patient_dal.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D9\u05DC\u05EA\\AppData\\Local\\Temp\\.vsdbgsrc\\0fc8827cb1b354f5adf5c1d561c1ea9ae987ae2123592435a91cfd51111a80e6\\Patient_dal.cs [Read Only]",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:53:22.754Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoronaVaccine_dal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E9\u05D9\u05DC\u05EA\\AppData\\Local\\Temp\\.vsdbgsrc\\791cb0f678fb9317af71a5c9556170054fc8fed5f83a26797f0ff24d5dcecde1\\CoronaVaccine_dal.cs",
+              "ToolTip": "C:\\Users\\\u05E9\u05D9\u05DC\u05EA\\AppData\\Local\\Temp\\.vsdbgsrc\\791cb0f678fb9317af71a5c9556170054fc8fed5f83a26797f0ff24d5dcecde1\\CoronaVaccine_dal.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:45:45.586Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientsAddresses_crl.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\PatientsAddresses_crl.cs",
+              "RelativeDocumentMoniker": "HMO_corona\\Controllers\\PatientsAddresses_crl.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\PatientsAddresses_crl.cs",
+              "RelativeToolTip": "HMO_corona\\Controllers\\PatientsAddresses_crl.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:37:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producters_crl.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\Producters_crl.cs",
+              "RelativeDocumentMoniker": "HMO_corona\\Controllers\\Producters_crl.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\Producters_crl.cs",
+              "RelativeToolTip": "HMO_corona\\Controllers\\Producters_crl.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:37:40.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Serologions_crl.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\Serologions_crl.cs",
+              "RelativeDocumentMoniker": "HMO_corona\\Controllers\\Serologions_crl.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\Serologions_crl.cs",
+              "RelativeToolTip": "HMO_corona\\Controllers\\Serologions_crl.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAvwDgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:37:40.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Serologion_dto.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\Serologion_dto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Serologion_dto.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\Serologion_dto.cs",
+              "RelativeToolTip": "BLL\\DTO\\Serologion_dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:40:54.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Patient_dto.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\Patient_dto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Patient_dto.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\Patient_dto.cs",
+              "RelativeToolTip": "BLL\\DTO\\Patient_dto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:40:42.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CoronaVaccine_dto.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\CoronaVaccine_dto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\CoronaVaccine_dto.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\CoronaVaccine_dto.cs",
+              "RelativeToolTip": "BLL\\DTO\\CoronaVaccine_dto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:39:39.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Program.cs",
+              "RelativeDocumentMoniker": "HMO_corona\\Program.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Program.cs",
+              "RelativeToolTip": "HMO_corona\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB0AAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:49:18.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Vaccine_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Vaccine_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\Vaccine_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Vaccine_bll.cs",
+              "RelativeToolTip": "BLL\\Func\\Vaccine_bll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:49:14.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serologion_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Serologion_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\Serologion_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Serologion_bll.cs",
+              "RelativeToolTip": "BLL\\Func\\Serologion_bll.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAMwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:49:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Producter_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Producter_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\Producter_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Producter_bll.cs",
+              "RelativeToolTip": "BLL\\Func\\Producter_bll.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:48:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PatientAddress_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\PatientAddress_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\PatientAddress_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\PatientAddress_bll.cs",
+              "RelativeToolTip": "BLL\\Func\\PatientAddress_bll.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA/wDIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:48:52.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoronaVaccine_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\CoronaVaccine_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\CoronaVaccine_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\CoronaVaccine_bll.cs",
+              "RelativeToolTip": "BLL\\Func\\CoronaVaccine_bll.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:48:29.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\Mapping.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Mapping.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\DTO\\Mapping.cs",
+              "RelativeToolTip": "BLL\\DTO\\Mapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:48:17.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IVaccine_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IVaccine_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IVaccine_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IVaccine_dal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IVaccine_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:15:44.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISerologion_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\ISerologion_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ISerologion_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\ISerologion_dal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ISerologion_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:15:27.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProducer_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IProducer_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IProducer_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IProducer_dal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IProducer_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:15:21.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPatientAddress_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IPatientAddress_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IPatientAddress_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IPatientAddress_dal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IPatientAddress_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:15:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPatient_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IPatient_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IPatient_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\IPatient_dal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IPatient_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:15:05.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICoronaVaccine_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\ICoronaVaccine_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICoronaVaccine_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Interfaces\\ICoronaVaccine_dal.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICoronaVaccine_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:14:34.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CRDU_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\CRUD\\CRDU_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\CRUD\\CRDU_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\CRUD\\CRDU_dal.cs",
+              "RelativeToolTip": "DAL\\CRUD\\CRDU_dal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:13:33.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vaccine_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Vaccine_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Func\\Vaccine_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Vaccine_dal.cs",
+              "RelativeToolTip": "DAL\\Func\\Vaccine_dal.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAWwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:08:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serologion_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Serologion_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Func\\Serologion_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Serologion_dal.cs",
+              "RelativeToolTip": "DAL\\Func\\Serologion_dal.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAWwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:08:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Producter_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Producter_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Func\\Producter_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Producter_dal.cs",
+              "RelativeToolTip": "DAL\\Func\\Producter_dal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:07:37.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientAdress_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\PatientAdress_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Func\\PatientAdress_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\PatientAdress_dal.cs",
+              "RelativeToolTip": "DAL\\Func\\PatientAdress_dal.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAWwEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:07:20.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoronaVaccines_crl.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\CoronaVaccines_crl.cs",
+              "RelativeDocumentMoniker": "HMO_corona\\Controllers\\CoronaVaccines_crl.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\CoronaVaccines_crl.cs",
+              "RelativeToolTip": "HMO_corona\\Controllers\\CoronaVaccines_crl.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:50:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient_bll.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Patient_bll.cs",
+              "RelativeDocumentMoniker": "BLL\\Func\\Patient_bll.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\BLL\\Func\\Patient_bll.cs",
+              "RelativeToolTip": "BLL\\Func\\Patient_bll.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAWwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:50:40.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patients_crl.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\Patients_crl.cs",
+              "RelativeDocumentMoniker": "HMO_corona\\Controllers\\Patients_crl.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\HMO_corona\\Controllers\\Patients_crl.cs",
+              "RelativeToolTip": "HMO_corona\\Controllers\\Patients_crl.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAD4vyUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:50:40.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Patient_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Func\\Patient_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\Patient_dal.cs",
+              "RelativeToolTip": "DAL\\Func\\Patient_dal.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAD4v1cAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:50:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoronaVaccine_dal.cs",
+              "DocumentMoniker": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\CoronaVaccine_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\Func\\CoronaVaccine_dal.cs",
+              "ToolTip": "F:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\My_Projects\\\u05D4\u05D3\u05E1\u05D9\u05DD\\HMO_corona\\DAL\\Func\\CoronaVaccine_dal.cs",
+              "RelativeToolTip": "DAL\\Func\\CoronaVaccine_dal.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAD4v0wAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:50:08.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\bin\Debug\net8.0\DAL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\bin\Debug\net8.0\DAL.pdb
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.pdb
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+F:\הנדסת תוכנה\My_Projects\הדסים\HMO_corona\DAL\obj\Debug\net8.0\ref\DAL.dll
