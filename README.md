@@ -15,7 +15,8 @@
 ![image](https://github.com/shilat-mori/Hadasim0.4/assets/149057922/7a862737-3e10-4287-9fe8-d0eb4a9b0e6a)
 
 פרטי פציינט – ניתן לנתב ע"י לחיצה על הכפתור "פרטים" באחד מהפציינטים. הנה כך:
-![image](https://github.com/shilat-mori/Hadasim0.4/assets/149057922/3cb5909d-fb74-4b05-aa4d-dd3f221629d8)
+![image](https://github.com/shilat-mori/Hadasim0.4/assets/149057922/3c8a9b15-908d-470b-93a8-aed13237eb8f)
+
 ![image](https://github.com/shilat-mori/Hadasim0.4/assets/149057922/cdc47437-a560-407c-b428-492042a32015)
 
 מחיקת פציינט – ניתן ללחוץ על הכפתור delete patient שלמטה.
