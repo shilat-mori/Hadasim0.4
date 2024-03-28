@@ -1,4 +1,4 @@
-אופן השימוש:
+`אופן השימוש`:
 
 דף הבית – נפתח מיד עם טעינת האתר:
 ![image](https://github.com/shilat-mori/Hadasim0.4/assets/149057922/c476f703-9691-4c3f-863e-1c50921c0ca3)
@@ -62,22 +62,34 @@ Good luck!
 מצורף הקובץ "מפרט ארכיטקטוני והסברים" – להבנה מעמיקה יותר.
 את תיקיות הקוד תוכלו למצוא:
 שרת:
+
 DAL - https://github.com/shilat-mori/Hadasim0.4/tree/main/hadasim/HMO_corona/DAL
+
 BLL - github.com/shilat-mori/Hadasim0.4/tree/main/hadasim/HMO_corona/BLL
+
 WebAPI - https://github.com/shilat-mori/Hadasim0.4/tree/main/hadasim/HMO_corona/HMO_corona
+
 לקוח:
+
 src - https://github.com/shilat-mori/Hadasim0.4/tree/main/hadasim/src
+
 תרגיל 2 מגדלי טוויטר:
+
 Twitter - https://github.com/shilat-mori/Hadasim0.4/tree/main/hadasim/Twitter
+
 
 
 
 כמו כן, קבצי הטקסט של המשימה צורפו בדרייב, מטעמי נוחות גישה ואפשרויות עדכון זמינות יותר.
 
 מפרט ארכיטקטוני גיט -
+
 https://github.com/shilatmori/Hadasim0.4/blob/main/hadasim/%D7%9E%D7%A4%D7%A8%D7%98%20%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A0%D7%99%20%D7%95%D7%94%D7%A1%D7%91%D7%A8%D7%99%D7%9D.txt
-מפרט ארכיטקטוני דרייב - 
+
+מפרט ארכיטקטוני דרייב -
+
 https://docs.google.com/document/d/1wo-B-80BoMe3O-iyIVchl1C5KS9kLidf/edit?usp=sharing&ouid=109534486230259046031&rtpof=true&sd=true
+
 
 תרגיל 3 דרייב - 
 https://docs.google.com/document/d/18zfXWzvj4UB_GNCYhBYMq7HrBhooN3Q3/edit?usp=sharing&ouid=109534486230259046031&rtpof=true&sd=true
