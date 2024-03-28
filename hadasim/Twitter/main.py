@@ -1,5 +1,4 @@
 from abc import abstractmethod, ABC
-
 import numpy as np
 
 
@@ -62,6 +61,7 @@ class Triangle(Tower):
             raise NotValidInput('cannot print the triangle')
         elif self._height * 2 < self._width:
             raise NotValidInput('the triangle is not valid!')
+        # self.__delattr__()
 
         rng = range(1, self._width + 1, 2)
         print(rng, (len(rng)))
@@ -78,12 +78,14 @@ class Triangle(Tower):
         return self._width
 
     def perimeter(self):
-        print(f'the perimeter is {self._width * 2 + self._height * 2}')
-        return self._width * 2 + self._height * 2
+        base = self._width
+        side = Tower.pythagorean(self._width / 2, self._height)
+        print(f'the perimeter is {base + side1 + side2}')
+        return base + (side*2)
 
     def area(self):
-        print(f'the area is {(self._width * self._height)}')
-        return self._width * self._height
+        print(f'the area is {(self._width * self._height) / 2}')
+        return (self._width * self._height) / 2
 
     def print_tower(self):
         super()._print_tower()
@@ -101,57 +103,6 @@ def enter_size():
 
     return int(width), int(height)
 
-#
-# def pythagorean(x, y):
-#     c = np.sqrt(np.power(x, 2) + np.power(y, 2))
-#     return c
-#
-#
-# def perimeter(x, y, shape):
-#     if shape == 3:
-#         base = x
-#         side1 = side2 = pythagorean(x / 2, y)
-#         print(f'the perimeter is {base + side1 + side2}')
-#         return base + side1 + side2
-#     elif shape == 4:
-#         print(f'the perimeter is {x * 2 + y * 2}')
-#         return x * 2 + y * 2
-#     return 0
-#
-#
-# def area(x, y, shape):
-#     if shape == 3:
-#         print(f'the area is {(x * y) / 2}')
-#         return (x * y) / 2
-#     elif shape == 4:
-#         print(f'the area is {(x * y)}')
-#         return x * y
-#     return 0
-#
-#
-# def print_tower(x, y, shape):
-#     if shape == 3:
-#         if x % 2 == 0:
-#             raise NotValidInput('cannot print the triangle')
-#         elif y * 2 < x:
-#             raise NotValidInput('the triangle is not valid!')
-#
-#         rng = range(1, x + 1, 2)
-#
-#         tower = [rng[0]] + np.repeat(rng[1:-1], int((y - 2) / (len(rng) - 2))).tolist() + [rng[-1]]
-#
-#         if (y - len(tower)) > 0:
-#             [tower.insert(1, tower[1]) for _ in range(y - len(tower))]
-#
-#     elif shape == 4:
-#         tower = [x] * y
-#
-#     else:
-#         return
-#
-#     for floor in tower:
-#         spaces = int((x - floor) / 2)
-#         print(' ' * spaces + '*' * floor + ' ' * spaces)
 
 
 def rectangle():
@@ -208,3 +159,54 @@ if __name__ == '__main__':
             inp = input('the input has written is not valid!\n make a choice again')
         menu_dic[inp]()
         # print('\n'.join([str(t) for t in p]) if isinstance(p, list) else p)
+#
+# def pythagorean(x, y):
+#     c = np.sqrt(np.power(x, 2) + np.power(y, 2))
+#     return c
+#
+#
+# def perimeter(x, y, shape):
+#     if shape == 3:
+#         base = x
+#         side1 = side2 = pythagorean(x / 2, y)
+#         print(f'the perimeter is {base + side1 + side2}')
+#         return base + side1 + side2
+#     elif shape == 4:
+#         print(f'the perimeter is {x * 2 + y * 2}')
+#         return x * 2 + y * 2
+#     return 0
+#
+#
+# def area(x, y, shape):
+#     if shape == 3:
+#         print(f'the area is {(x * y) / 2}')
+#         return (x * y) / 2
+#     elif shape == 4:
+#         print(f'the area is {(x * y)}')
+#         return x * y
+#     return 0
+#
+#
+# def print_tower(x, y, shape):
+#     if shape == 3:
+#         if x % 2 == 0:
+#             raise NotValidInput('cannot print the triangle')
+#         elif y * 2 < x:
+#             raise NotValidInput('the triangle is not valid!')
+#
+#         rng = range(1, x + 1, 2)
+#
+#         tower = [rng[0]] + np.repeat(rng[1:-1], int((y - 2) / (len(rng) - 2))).tolist() + [rng[-1]]
+#
+#         if (y - len(tower)) > 0:
+#             [tower.insert(1, tower[1]) for _ in range(y - len(tower))]
+#
+#     elif shape == 4:
+#         tower = [x] * y
+#
+#     else:
+#         return
+#
+#     for floor in tower:
+#         spaces = int((x - floor) / 2)
+#         print(' ' * spaces + '*' * floor + ' ' * spaces)
