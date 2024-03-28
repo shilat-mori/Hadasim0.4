@@ -11,7 +11,7 @@ create table patient_address(
 	number int
 );
 
---patient
+--patient--
 create table patient(
 	id varchar(9) primary key,
 	first_name varchar(20),
@@ -31,7 +31,7 @@ create table producer(
 	_name varchar(40)
 );
 
---vaccine зйсеп
+--vaccine пїЅпїЅпїЅпїЅпїЅ
 create table vaccine(
 	id int identity(1,1) primary key,
 	vac_date date,
@@ -47,7 +47,7 @@ create table serologion(
 	_status bit,
 );
 
---corona_vaccine зйсерй чешерд
+--corona_vaccine пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 create table corona_vaccine(
 	id varchar(9) primary key,
 	vac1 int,
