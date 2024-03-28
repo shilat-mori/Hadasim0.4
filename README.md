@@ -60,7 +60,7 @@ Good luck!
 
 
 מצורף הקובץ "מפרט ארכיטקטוני והסברים" – להבנה מעמיקה יותר.
-[![image](https://github.com/shilat-mori/Hadasim0.4/assets/149057922/4f5a11d2-26ba-4c62-8fd4-115dd2395947)](https://github.com/shilat-mori/Hadasim0.4/blob/main/hadasim/%D7%9E%D7%A4%D7%A8%D7%98%20%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A0%D7%99%20%D7%95%D7%94%D7%A1%D7%91%D7%A8%D7%99%D7%9D.txt)
+https://github.com/shilat-mori/Hadasim0.4/blob/main/hadasim/%D7%9E%D7%A4%D7%A8%D7%98%20%D7%90%D7%A8%D7%9B%D7%99%D7%98%D7%A7%D7%98%D7%95%D7%A0%D7%99%20%D7%95%D7%94%D7%A1%D7%91%D7%A8%D7%99%D7%9D.txt
 
 
 
