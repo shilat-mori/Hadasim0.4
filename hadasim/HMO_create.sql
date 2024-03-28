@@ -11,7 +11,7 @@ create table patient_address(
 	number int
 );
 
---patient--
+--patient
 create table patient(
 	id varchar(9) primary key,
 	first_name varchar(20),
