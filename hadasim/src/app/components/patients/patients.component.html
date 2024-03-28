@@ -1,0 +1,23 @@
+<table class="table table-dark">
+    <thead>
+        <tr>
+        <td>ת"ז</td>
+        <td>שם משפחה</td>
+        <td>שם פרטי</td>
+        <td></td>
+        <td></td>
+        </tr>
+    </thead>
+    <tbody *ngFor="let pt of this.patients">
+        <tr>
+        <td>{{pt.Id}}</td>
+        <td>{{pt.LastName}}</td>
+        <td>{{pt.FirstName}}</td>
+        <td><button (click)="details_pt(pt.Id!)" >פרטים</button></td>
+        <td><button (click)="edit_pt(pt.Id!)">ערוך</button></td>    
+        routerLink="./Edit/{{pt.Id}}"
+        </tr>
+    </tbody>
+</table>
+<!-- <app-edit [patientId]="this.pId" ></app-edit> -->
+<router-outlet></router-outlet>

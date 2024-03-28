@@ -1,0 +1,6 @@
+@HMO_corona_HostAddress = http://localhost:5182
+
+GET {{HMO_corona_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

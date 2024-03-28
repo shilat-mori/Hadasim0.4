@@ -1,0 +1,13 @@
+<h2>{{this.id}}</h2>
+<div class="row">
+    <!-- Personal Details Component -->
+    <div class="col-md-6" style="flex: 1;">
+      <app-personal-details [Patientid]="this.id"></app-personal-details>
+    </div>
+  
+    <!-- Cash Details Component -->
+    <div class="col-md-6" style="flex: 1;">
+      <app-covid-details [Patientid]="this.id"></app-covid-details>
+    </div>
+  </div>
+  <button (click)="delete_pt()">delete patient</button>
