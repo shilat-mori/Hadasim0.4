@@ -26,30 +26,36 @@
 
 
 DB:
+
 ניתן להריץ את הקובץ HMO_create המצורף כשאילתת SQL ליצירת מסד נתונים.
 
 
 DB-Server connect:
+
 בפרוייקט צד השרת, יש לשנות את שם תיקיית HMO לשם אחר לפני הרצת החיבור (זאת ע"מ למנוע שגיאות במחיקה).
 הגדירו את פרויקט הDAL כ "set startup project".
 הריצו את הפקודה הזו בpackage manager console:
 
 Scaffold-DbContext "Server=[myServer];Database=HMO_corona;Trusted_Connection=True; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir HMO
 
+
 ! יש להחליף את [myServer] בשם השרת עליו תרצו להריץ את הפרויקט.
 אחרי שהחיבור בוצע בהצלחה מחקו את התיקיה שהייתה בעבר קרויה HMO.
 
 
 Client SetUp:
+
 צרו פרוייקט Angular.
 החליפו את תיקיית src בתיקיית src המצורפת.
 
 
 
 Client-Server connect:
+
 הריצו את פרויקט הweb API בswagger ובעבור כל כתובת של פונקציה, שנו את הכתובת המתאימה בService  המתאים בפרויקט הAngular .
 הריצו את פרויקט הserver, ולאחר מכן הריצו את פרויקט הclient.
 Good luck!
+
 
 
 
