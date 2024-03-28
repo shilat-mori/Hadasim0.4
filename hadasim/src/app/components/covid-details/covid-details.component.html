@@ -1,0 +1,33 @@
+<h2>covid details</h2>
+<h3>vaccines</h3>
+<table class = "table">
+    <thead>
+        <tr>
+            <td>date</td>
+            <td>producer</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let i of [0,1,2,3]">
+            <td>{{(vaccines[i].VacDate|date:'dd/MM/yyyy')}}</td>
+            <td>{{producers[i].Name}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>serologic</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <td>becoming sick date</td>
+            <td>recovery date</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr >
+            <td>{{this.serologic?.PositiveDate|date:'dd/MM/yyyy'}}</td>
+            <td>{{this.serologic?.RecoveryDate|date:'dd/MM/yyyy'}}</td>
+        </tr>
+    </tbody>
+</table>
+

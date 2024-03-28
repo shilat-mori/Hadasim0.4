@@ -1,0 +1,116 @@
+<div class="cont">
+
+
+    <form [formGroup]="frm" class = "was-validated" (ngSubmit)="submit()"> 
+        <div class = 'mb-3'>
+            <label class = "form-label">id</label>
+            <input value={{Id.value}} formControlName = "Id" class="form-control">
+            <div *ngIf="Id.invalid && Id.dirty|| Id.touched || this.submit_touched">
+                <p *ngIf="Id.hasError('required')">required</p>
+                <p *ngIf="Id.hasError('minlength')">minlength</p>
+                <p *ngIf="Id.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">what's your first name?</label>
+            <input formControlName = "FName" class="form-control">
+            <div *ngIf="FName.invalid && FName.dirty|| FName.touched || this.submit_touched" >
+                <p *ngIf="FName.hasError('required')">required</p>
+                <p *ngIf="FName.hasError('minlength')">minlength</p>
+                <p *ngIf="FName.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+         <div class = 'mb-3'>
+            <label class = "form-label">what's your last name?</label>
+            <input formControlName = "LName" class="form-control">
+            <div *ngIf="LName.invalid && LName.dirty|| LName.touched || this.submit_touched">
+                <p *ngIf="LName.hasError('required')">required</p>
+                <p *ngIf="LName.hasError('minlength')">minlength</p>
+                <p *ngIf="LName.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">phone</label>
+            <input formControlName = "Phone" class="form-control">
+            <div *ngIf="Phone.invalid && Phone.dirty|| Phone.touched || this.submit_touched">
+                <p *ngIf="Phone.hasError('required')">required</p>
+                <p *ngIf="Phone.hasError('minlength')">minlength</p>
+                <p *ngIf="Phone.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">tel</label>
+            <input formControlName = "Tel" class="form-control">
+            <div *ngIf="Tel.invalid && Tel.dirty|| Tel.touched || this.submit_touched">
+                <p *ngIf="Tel.hasError('minlength')">minlength</p>
+                <p *ngIf="Tel.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">city</label>
+            <input formControlName = "City" class="form-control">
+            <div *ngIf="City.invalid && City.dirty|| City.touched || this.submit_touched">
+                <p *ngIf="City.hasError('required')">required</p>
+                <p *ngIf="City.hasError('minlength')">minlength</p>
+                <p *ngIf="City.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">street</label>
+            <input formControlName = "Street" class="form-control">
+            <div *ngIf="Street.invalid && Street.dirty|| Street.touched || this.submit_touched">
+                <p *ngIf="Street.hasError('required')">required</p>
+                <p *ngIf="Street.hasError('minlength')">minlength</p>
+                <p *ngIf="Street.hasError('pattern')">pattern</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">number</label>
+            <input type="number" formControlName = "Number" class="form-control">
+            <div *ngIf="Number.invalid && Number.dirty|| Number.touched || this.submit_touched">
+                <p *ngIf="Number.hasError('required')">required</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">birth date</label>
+            <input type='date' formControlName = "BornDate" class="form-control">
+            <div *ngIf="BornDate.invalid && BornDate.dirty|| BornDate.touched || this.submit_touched">
+                <p *ngIf="BornDate.hasError('required')">required</p>
+                <p *ngIf="BornDate.hasError('futureDate')">futureDate</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">sick date</label>
+            <input type = 'date'formControlName = "SickDate" class="form-control">
+            <div *ngIf="SickDate.invalid && SickDate.dirty|| SickDate.touched || this.submit_touched">
+                <p *ngIf="SickDate.hasError('futureDate')">futureDate</p>
+            </div>
+            <label class = "form-label">recover date</label>
+            <input type = 'date' formControlName = "SickDate" class="form-control">
+            <div *ngIf="RecoverDate.invalid && RecoverDate.dirty|| RecoverDate.touched || this.submit_touched">
+                <p *ngIf="RecoverDate.hasError('futureDate')">futureDate</p>
+            </div>
+        </div>
+        <div *ngFor="let item of this.vacs" class = 'mb-3'>
+            <label class = "form-label">{{item[0]}} vaccine date</label>
+            <input type="date" formControlName = {{item[1]}} class="form-control">
+            <div *ngIf="VacDates[(item[0]-1)].invalid && VacDates[(item[0]-1)].dirty|| VacDates[(item[0]-1)].touched || this.submit_touched">
+                <p *ngIf="VacDates[(item[0]-1)].hasError('futureDate')">futureDate</p>
+            </div>
+            <label class = "form-label">{{item[0]}} vaccine producer</label>
+            <input formControlName = {{item[2]}} class="form-control">
+            <div *ngIf="VacProds[item[0]-1].invalid && VacProds[item[0]-1].dirty|| VacProds[item[0]-1].touched || this.submit_touched">
+                <p *ngIf="VacProds[item[0]-1].hasError('notExists')">notExists</p>
+            </div>
+        </div>
+        <div class = 'mb-3'>
+            <label class = "form-label">you can upload a picture</label>
+            <input type="file" (change)="SelectFile($event)">
+            <!-- <button (click)="onUpload()">upload</button> -->
+        </div>
+        <input class="btn btn-primary bbtn" type="submit" value="Submit">
+         <!-- //[disabled]="!frm.valid" -->
+        
+    </form>
+    
+    </div>

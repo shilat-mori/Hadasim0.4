@@ -1,0 +1,21 @@
+<h2>personal details</h2>
+<div>
+    <label>name: </label>
+    <label> {{this.patient?.FirstName}} {{this.patient?.LastName}}</label>
+</div>
+<div>
+    <label>burn date: </label>
+    <label> {{this.patient?.BurnDate |date:'dd/MM/yyyy'}}</label>
+</div>
+<div>
+    <label>address: </label>
+    <label > {{this.address?.Street}} {{this.address?.Number}} {{this.address?.City}}</label>
+</div>
+<div>
+    <label>phone: </label>
+    <label> {{this.patient?.Phone}}</label>
+</div>
+<div>
+    <label>tel: </label>
+    <label> {{this.patient?.Tel}}</label>
+</div>
